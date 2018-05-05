@@ -12,8 +12,8 @@ picture: assets/images/junhee-profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://drive.google.com/open?id=1YeiCQk7yI_h_i7Bh459Rum9jrhjpLRbf
 
 url: http://www.woojunhee.com
@@ -42,7 +42,7 @@ facebook: 'to.junhee'
 linkedin: 'junhee-woo'
 # youtube: myyoutube
 # spotify: myspotify
-github: 'ehnuje'
+# github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
