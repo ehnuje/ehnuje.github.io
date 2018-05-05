@@ -11,25 +11,19 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
 	<li>C++</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>Git</li>
-	
-​	<li>Python</li>
-	<li>SAP HANA DB</li>
-	<li>PHP</li>
-
+	<li>Python</li>
+	<li>Go (recently started studying!)</li>
+	<li>Javascript, jQuery</li>
+	<li><a href="https://en.wikipedia.org/wiki/SAP_HANA">SAP HANA DB</a></li>
+	<li>PHP, MySQL, HTML, CSS</li>
 </ul>
 
 <h2>Projects</h2>
 
-<p>Heorku Free Dynos 를 사용중이어서, 처음 로딩시 시간이 소요될 수 있습니다.</p>
+<p><a href="https://devcenter.heroku.com/articles/free-dyno-hours">Heorku Free Dynos</a> 를 사용중이어서, 로딩시 시간이 소요될 수 있습니다. 기다리시면 나옵니다!</p>
 
 <ul>
-	<li><a href="https://prismy.herokuapp.com">프리즈미</a></li>
-	<li><a href="http://jungchin.herokuapp.com">정친(政親)</a></li>
+	<li><a href="https://prismy.herokuapp.com">프리즈미</a> - 성소수자(LGBT)들과의 인터뷰를 대화형 인터페이스로 재구성 <a href="http://www.goham20.com/49586/">[인터뷰]</a></li>
+	<li><a href="http://jungchin.herokuapp.com">정친(政親)</a> - 안건에 대한 찬반 투표를 바탕으로 자신과 비슷한 투표를 한 국회의원을 선정</li>
 </ul>
