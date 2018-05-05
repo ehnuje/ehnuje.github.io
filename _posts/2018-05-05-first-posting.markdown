@@ -1,5 +1,5 @@
 ---
-title: "Markdown Extra Components"
+title: "첫 포스팅"
 layout: post
 date: 2018-05-05 18:16
 image: /assets/images/markdown.jpg
@@ -9,9 +9,9 @@ tag:
 category: blog
 author: junhee
 description: first posting for testing
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
+첫 포스팅을 작성해봅니다
 ## Summary:
 
 You can pick as item to see how to apply in markdown.
