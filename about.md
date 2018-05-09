@@ -9,12 +9,12 @@ layout: page
 <h2>Projects</h2>
 
 <p>
-<a href="https://devcenter.heroku.com/articles/free-dyno-hours">Heorku Free Dynos</a> 를 사용중이어서, 로딩시 시간이 소요될 수 있습니다.<br>기다리시면 나옵니다!
+<a href="https://devcenter.heroku.com/articles/free-dyno-hours">Heorku Free Dynos</a> 를 사용중이어서, 로딩시 시간이 소요될 수 있습니다.<br>조금만 기다려주시면 보실 수 있습니다!
 </p>
 
 <ul>
 	<li><a href="https://prismy.herokuapp.com">프리즈미</a> - 성소수자(LGBT)들과의 인터뷰를 대화형 인터페이스로 재구성 <a href="http://www.goham20.com/49586/">[인터뷰]</a></li>
-	<li><a href="http://jungchin.herokuapp.com">정친(政親)</a> - 안건에 대한 찬반 투표를 바탕으로 자신과 비슷한 투표를 한 국회의원을 선정</li>
+	<li><a href="http://jungchin.herokuapp.com">정친(政親)</a> - 안건에 대한 찬반을 바탕으로 사용자와 비슷한 성향의 국회의원을 선정</li>
 </ul>
 
 <h2>Skills</h2>
@@ -24,7 +24,7 @@ layout: page
 	<li>Python</li>
 	<li>Java</li>
 	<li>Ruby (on Rails)</li>
-	<li>Go (recently started studying!)</li>
+	<li>Go (최근에 공부를 시작했습니다!)</li>
 	<li>Javascript, jQuery</li>
 	<li><a href="https://en.wikipedia.org/wiki/SAP_HANA">SAP HANA DB</a></li>
 	<li>PHP, MySQL, HTML, CSS</li>
